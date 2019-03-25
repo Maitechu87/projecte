@@ -18,3 +18,5 @@ $git add nomdoc
 Com registrar una versió:
 
 $git commit -m "comentari del nou document"
+
+hola cucú
